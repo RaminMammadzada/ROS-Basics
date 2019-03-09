@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="exercise_21" type="stop_robot.py" name="move_robot_node"  output="screen">
+    </node>
+</launch>
